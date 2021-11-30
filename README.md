@@ -112,9 +112,4 @@ Now, you're all setup! You can try it by hitting your chosen shortcut key. This 
 ---
 
 ## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright &copy; 2019 Wiggy boy \<Lindholm\>\
-  (formally known as Osvald Lindholm)
+This project is licensed under the [MIT license](./LICENSE.md).
